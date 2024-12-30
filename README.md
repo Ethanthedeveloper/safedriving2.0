@@ -5,5 +5,5 @@ A custom map on Forza Horizon 5 made specially around the concept of safe drivin
 # ■ MY MISSION ■
 Safe Driving 2.0 is made with the goal of taking advantage of Forza Horizon 5's AMAZING graphical capabilities and ability to be played on Xbox to bring people an experience like educational driving games such as City Car Driving (Made by Forward Developement ❤️ ).
 
-# ○ HOW DO I INSTALL IT ○
+# ● HOW DO I INSTALL IT ●
 There is no need to install this as it is an event found in the EVENTLAB on Forza Horizon 5. *instructions in releases found in the release section of this Github*
