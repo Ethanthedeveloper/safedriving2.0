@@ -12,4 +12,4 @@ There is no need to install this as it is an event found in the EVENTLAB on Forz
 Well, I was in the middle of working on 1.0 and my Xbox overheated and restarted, therefor my work was corrupt.
 
 # Current Developement Stage
-*◇ÄĻPĤĄ◇*
+*◇B E T A◇*
